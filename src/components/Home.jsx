@@ -14,7 +14,7 @@ export const Home = () => {
             alt="Foto Diego Parra"
             src="./images/me.jpeg"
         />
-        <Figure.Caption className='h2 text-dark'>
+        <Figure.Caption className='h4 text-dark'>
             Diego Parra
         </Figure.Caption>
         </Figure>
