@@ -12,7 +12,7 @@ export const Home = () => {
             width={171}
             height={180}
             alt="Foto Diego Parra"
-            src="./images/me.jpeg"
+            src="https://diegoparrae.github.io/bit07me/img/me.jpeg"
         />
         <Figure.Caption className='h4 text-dark'>
             Diego Parra
